@@ -1,9 +1,3 @@
-# =============================================================
-# 03_visualization.py
-# World Happiness Report - Visualizations
-# Author: Angela-99
-# =============================================================
-
 import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib.ticker as mticker
