@@ -8,23 +8,20 @@ to exploratory analysis, visualization, and predictive modeling.
 
 
 ## 📁 Project Structure
-world-happiness-analysis/
-│
-├── data/
-│   ├── raw/               # Original CSV files (2015-2019)
-│   └── processed/         # Cleaned and merged dataset
-│
-├── scripts/
-│   ├── 01_data_cleaning.py    # Data cleaning and merging
-│   ├── 02_eda.py              # Exploratory data analysis
-│   ├── 03_visualization.py    # Charts and visualizations
-│   └── 04_modeling.py         # Regression modeling
-│
-├── outputs/
-│   └── figures/           # All saved charts (PNG)
-│
-├── README.md
-└── requirements.txt
+
+    world-happiness-analysis/
+    ├── data/
+    │   ├── raw/                    # Original CSV files (2015-2019)
+    │   └── processed/              # Cleaned and merged dataset
+    ├── scripts/
+    │   ├── 01_data_cleaning.py     # Data cleaning and merging
+    │   ├── 02_eda.py               # Exploratory data analysis
+    │   ├── 03_visualization.py     # Charts and visualizations
+    │   └── 04_modeling.py          # Regression modeling
+    ├── outputs/
+    │   └── figures/                # All saved charts (PNG)
+    ├── README.md
+    └── requirements.txt
 
 ## 📊 Dataset
 
