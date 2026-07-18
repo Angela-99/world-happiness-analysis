@@ -3,7 +3,7 @@
 A full data analysis project exploring global happiness trends across 170 countries
 using the World Happiness Report dataset (2015–2019).
 
-This project covers the complete data analysis life cycle — from raw data cleaning
+This project covers the complete data analysis life cycle from raw data cleaning
 to exploratory analysis, visualization, and predictive modeling.
 
 
