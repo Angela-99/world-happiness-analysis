@@ -38,16 +38,17 @@ to exploratory analysis, visualization, and predictive modeling.
 - seaborn
 - scikit-learn
 
-Install dependencies:pip install pandas matplotlib seaborn scikit-learn
+Install dependencies: pip install pandas matplotlib seaborn scikit-learn
 
 ## 🔄 How to Run
 
 Run the scripts in order from the project root directory:
-py scripts/01_data_cleaning.py
-py scripts/02_eda.py
-py scripts/03_visualization.py
-py scripts/04_modeling.py
 
+    py scripts/01_data_cleaning.py
+    py scripts/02_eda.py
+    py scripts/03_visualization.py
+    py scripts/04_modeling.py
+    
 ## 🔍 Key Findings
 
 ### Data Cleaning
