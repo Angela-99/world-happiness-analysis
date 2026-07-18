@@ -25,7 +25,7 @@ to exploratory analysis, visualization, and predictive modeling.
 
 ## 📊 Dataset
 
-- **Source:** [Kaggle — World Happiness Report](https://www.kaggle.com/datasets/unsdsn/world-happiness)
+- **Source:** [Kaggle - World Happiness Report](https://www.kaggle.com/datasets/unsdsn/world-happiness)
 - **Years covered:** 2015, 2016, 2017, 2018, 2019
 - **Countries:** 170 unique countries
 - **Records:** 782 rows after merging all years
@@ -38,15 +38,18 @@ to exploratory analysis, visualization, and predictive modeling.
 - seaborn
 - scikit-learn
 
-Install dependencies:pip install pandas matplotlib seaborn scikit-learn
+Install dependencies:
+
+    pip install pandas matplotlib seaborn scikit-learn
 
 ## 🔄 How to Run
 
 Run the scripts in order from the project root directory:
-py scripts/01_data_cleaning.py
-py scripts/02_eda.py
-py scripts/03_visualization.py
-py scripts/04_modeling.py
+
+    py scripts/01_data_cleaning.py
+    py scripts/02_eda.py
+    py scripts/03_visualization.py
+    py scripts/04_modeling.py
 
 ## 🔍 Key Findings
 
@@ -80,11 +83,11 @@ py scripts/04_modeling.py
 
 | # | Chart | Description |
 |---|-------|-------------|
-| 1 | Top & Bottom 10 Countries | Average happiness score 2015–2019 |
+| 1 | Top & Bottom 10 Countries | Average happiness score 2015-2019 |
 | 2 | Global Trend | Average happiness score per year |
 | 3 | Correlation Heatmap | Relationships between all factors |
 | 4 | GDP vs Happiness | Scatter plot of strongest predictor |
-| 5 | Happiness by Region | Regional comparison (2015–2016) |
+| 5 | Happiness by Region | Regional comparison (2015-2016) |
 | 6 | Most Improved vs Declined | Country-level change 2015 to 2019 |
 | 7 | Actual vs Predicted | Model performance comparison |
 | 8 | Feature Importance | Random Forest feature ranking |
